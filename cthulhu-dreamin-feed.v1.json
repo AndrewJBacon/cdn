@@ -19,8 +19,8 @@
 			"content": {
 				"duration": 240,
 				"videos": [{
-					"videoType": "MP3",
-					"url": "https://cdn.jsdelivr.net/gh/AndrewJBacon/cdn@e32a48898542545c6eeddfed28de7a07f0412418/audio/The%20Abyssal%20Dream.mp3",
+					"videoType": "MP4",
+					"url": "https://cdn.jsdelivr.net/gh/AndrewJBacon/cdn@998b3256048cb8f78fedc72ab0cb170c1afc178c/video/The%20Abyssal%20Dream.mp4",
 					"quality": "HD"
 				}],
 				"language": "en-us",
